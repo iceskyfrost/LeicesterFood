@@ -1,0 +1,1 @@
+import{o as e,e as r,u as s}from"./index-D4K7Jmoc.js";import{_ as t}from"./_plugin-vue_export-helper.BCo6x5W8.js";const o=t({},[["render",function(t,o){const p=s;return e(),r(p,{src:"https://leicester-seven.vercel.app/map.html"})}]]);export{o as default};
